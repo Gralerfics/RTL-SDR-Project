@@ -1,0 +1,1 @@
+RTL-SDR 最初的驱动程序由 Osmocom 的工程师实现，其代码开源，可以查看如下网址获取源代码或其编译版：https://osmocom.org/projects/rtl-sdr/wiki

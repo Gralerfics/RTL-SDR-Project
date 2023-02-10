@@ -1,0 +1,1 @@
+Osmocom 关于 RTL-SDR 的 Wiki 上列举了一系列第三方软件包，可参考：https://osmocom.org/projects/rtl-sdr/wiki#Known-Apps
